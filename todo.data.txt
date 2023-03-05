@@ -3,4 +3,3 @@ Return the books to the library.
 Vist the new museum
 Print the pictures
 Fix the floor
-Buy grocery
