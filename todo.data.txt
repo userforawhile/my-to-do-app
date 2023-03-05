@@ -4,4 +4,3 @@ Vist the new museum
 Print the pictures
 Fix the floor
 Buy grocery
-hello friend
